@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sobuj53/web_qbittorrent/blob/main/qbittorrent.ipynb)
+
 # web_qbittorrent
 Using power of colab to torrent with powerful web interface of qbittorrent
 
